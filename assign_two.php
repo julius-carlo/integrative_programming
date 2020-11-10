@@ -1,5 +1,5 @@
 <?php
-	class UserClass
+	class UserClass 
     {
     	//Properties and Method
 	public $name;
